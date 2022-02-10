@@ -1,0 +1,254 @@
+"CountryName","TerritoryCode","Description","AlternateTerritoryCode","PhoneCountryCodeId","PhoneCountryCode","CurrencyCode","NlsTerritory","ObsoleteFlag"
+"Afghanistan","AF","The Transitional Islamic State of Afghanistan",,300000000163266,"93","AFN",,false
+"Aland Islands","AX","Aland Islands",,300000000163291,"358","EUR",,false
+"Albania","AL","Republic of Albania",,300000000163272,"355","ALL","ALBANIA",false
+"Algeria","DZ","People's Democratic Republic of Algeria","ar-DZ",300000000163385,"213","DZD","ALGERIA",false
+"American Samoa","AS","America Samoa (principal island Tutuila and includes Swain's Island)",,300000000163286,"1","USD",,false
+"Andorra","AD","Principality of Andorra",,300000000163263,"376","EUR",,false
+"Angola","AO","Republic of Angola (includes Cabinda)",,300000000163276,"244","AOA",,false
+"Anguilla","AI","Anguilla",,300000000163270,"1","XCD",,false
+"Antarctica","AQ","Territory south of 60 degrees south latitude",,300000000163279,"672",,,false
+"Antigua and Barbuda","AG","Antigua and Barbuda (includes Redonda Island)",,300000000163268,"1","XCD",,false
+"Argentina","AR","Argentine Republic","es-AR",300000000163280,"54","ARS","ARGENTINA",false
+"Armenia","AM","Republic of Armenia",,300000000163274,"374","AMD",,false
+"Aruba","AW","Aruba",,300000000163290,"297","AWG",,false
+"Australia","AU","Australia (includes Lord Howe Island, Macquarie Island, Ashmore and Cartier Islands, and Coral Sea Islands which are Australian external territories)","en-AU",300000000163288,"61","AUD","AUSTRALIA",false
+"Austria","AT","Republic of Austria","de-AT",300000000163287,"43","EUR","AUSTRIA",false
+"Azerbaijan","AZ","Republic of Azerbaijan","az-AZ",300000000163292,"994","AZN","AZERBAIJAN",false
+"Bahamas","BS","Commonwealth of the Bahamas",,300000000163312,"1","BSD",,false
+"Bahrain","BH","Kingdom of Bahrain","ar-BH",300000000163303,"973","BHD","BAHRAIN",false
+"Bangladesh","BD","People's Republic of Bangladesh",,300000000163296,"880","BDT","BANGLADESH",false
+"Barbados","BB","Barbados",,300000000163294,"1","BBD",,false
+"Belarus","BY","Republic of Belarus","be-BY",300000000163317,"375","BYR","BELARUS",false
+"Belgium","BE","Kingdom of Belgium","nl-BE",300000000163297,"32","EUR","BELGIUM",false
+"Belize","BZ","Belize",,300000000163318,"501","BZD",,false
+"Benin","BJ","Republic of Benin",,300000000163305,"229","XOF",,false
+"Bermuda","BM","Bermuda",,300000000163306,"1","BMD",,false
+"Bolivia (Plurinational State of)","BO","Republic of Bolivia",,300000000163309,"591","BOB",,false
+"Bosnia and Herzegovina","BA","Bosnia and Herzegovina","sr-BA",300000000163293,"387","BAM","BOSNIA AND HERZEGOVINA",false
+"Botswana","BW","Republic of Botswana",,300000000163316,"267","BWP",,false
+"Bouvet Island","BV","Bouvet Island",,300000000163315,"47","NOK",,false
+"Brazil","BR","Federative Republic of Brazil (includes Fernando de Noronha Island, Martim Vaz Islands, and Trindade Island)","pt-BR",300000000163310,"55","BRL","BRAZIL",false
+"British Indian Ocean Territory","IO","British Indian Ocean Territory (principal island Diego Garcia and includes Chagos Archipelago)",,300000000163435,"246","USD",,false
+"Brunei Darussalam","BN","Brunei Darussalam",,300000000163308,"673","BND",,false
+"Bulgaria","BG","Republic of Bulgaria","bg-BG",300000000163302,"359","BGN","BULGARIA",false
+"Burkina Faso","BF","Burkina Faso",,300000000163301,"226","XOF",,false
+"Burundi","BI","Republic of Burundi",,300000000163304,"257","BIF",,false
+"Cabo Verde","CV","Republic of Cabo Verde (principal islands Sao Tiago and Sao Vicente)",,300000000163367,"238","CVE",,false
+"Cambodia","KH","Kingdom of Cambodia",,300000000163453,"855","KHR",,false
+"Cameroon","CM","Republic of Cameroon",,300000000163359,"237","XAF",,false
+"Canada","CA","Canada","en-CA",300000000163319,"1","CAD","CANADA",false
+"Caribbean Netherlands","BQ","Caribbean Netherlands (includes Bonaire, Sint Eustatius and Saba)",,,,"USD",,false
+"Cayman Islands","KY","Cayman Islands (principal island Grand Cayman)",,300000000163461,"1","KYD",,false
+"Central African Republic","CF","Central African Republic",,300000000163352,"236","XAF",,false
+"Chad","TD","Republic of Chad",,300000000163609,"235","XAF",,false
+"Chile","CL","Republic of Chile (includes Easter Island, Juan Fernandez Islands, Sala y Gomez Island, San Ambrosio Island, and San Felix Island)","es-CL",300000000163358,"56","CLP","CHILE",false
+"China","CN","People's Republic of China (see also TAIWAN, PROVINCE OF CHINA)","zh-CN",300000000163360,"86","CNY","CHINA",false
+"Christmas Island","CX","Christmas Island",,300000000163368,"61","AUD",,false
+"Cocos (Keeling) Islands","CC","Cocos (Keeling) Islands",,300000000163350,"61","AUD",,false
+"Colombia","CO","Republic of Colombia (includes Malpelo Island, San Andres y Providencia Islands)","es-CO",300000000163363,"57","COP","COLOMBIA",false
+"Comoros","KM","Union of the Comoros (includes Anjouan, Grande Comore, and Moheli)",,300000000163455,"269","KMF",,false
+"Congo-Brazzaville","CG","Republic of the Congo",,300000000163353,"242","XAF",,false
+"Cook Islands","CK","Cook Islands (principal island Rarotonga)",,300000000163357,"682","NZD",,false
+"Costa Rica","CR","Republic of Costa Rica (includes Coco Island)","es-CR",300000000163364,"506","CRC","COSTA RICA",false
+"Cote d'Ivoire","CI","Republic of Cote d'Ivoire",,300000000163356,"225","XOF",,false
+"Croatia","HR","Republic of Croatia","hr-HR",300000000163427,"385","HRK","CROATIA",false
+"Cuba","CU","Republic of Cuba",,300000000163366,"53","CUP",,false
+"Curacao","CW","Country of Curacao","nl-NL",,,"ANG",,false
+"Cyprus","CY","Republic of Cyprus","el-CY",300000000163369,"357","EUR","CYPRUS",false
+"Czech Republic","CZ","Czech Republic","cs-CZ",300000000163370,"420","CZK","CZECH REPUBLIC",false
+"Democratic People's Republic of Korea","KP","Korea, Democratic People's Republic of (often referred to as North Korea)",,300000000163458,"850","KPW",,false
+"Democratic Republic of the Congo","CD","The Democratic Republic of the Congo (previous entry was Zaire)",,300000000163351,"243","CDF",,false
+"Denmark","DK","Kingdom of Denmark","da-DK",300000000163376,"45","DKK","DENMARK",false
+"Djibouti","DJ","Republic of Djibouti","fr-DJ",300000000163375,"253","DJF","DJIBOUTI",false
+"Dominica","DM","Commonwealth of Dominica",,300000000163379,"1","XCD",,false
+"Dominican Republic","DO","Dominican Republic",,300000000163381,"1","DOP",,false
+"Ecuador","EC","Republic of Ecuador (includes Galapagos Islands)","es-EC",300000000163386,"593","USD","ECUADOR",false
+"Egypt","EG","Arab Republic of Egypt","ar-EG",300000000163388,"20","EGP","EGYPT",false
+"El Salvador","SV","Republic of El Salvador","es-SV",300000000163603,"503","SVC","EL SALVADOR",false
+"Equatorial Guinea","GQ","Republic of Equatorial Guinea (comprises Annobon Island, Bioko Island, and the Continental Region (Rio Muni))",,300000000163414,"240","XAF",,false
+"Eritrea","ER","Eritrea",,300000000163390,"291","ERN",,false
+"Estonia","EE","Republic of Estonia","et-EE",300000000163387,"372","EUR","ESTONIA",false
+"Eswatini","SZ","Kingdom of Eswatini",,300000000163606,"268","SZL",,false
+"Ethiopia","ET","Federal Democratic Republic of Ethiopia",,300000000163393,"251","ETB",,false
+"Falkland Islands (Malvinas)","FK","Falkland Islands (Malvinas)",,300000000163396,"500","FKP",,false
+"Faroe Islands","FO","Faroe Islands",,300000000163398,"298","DKK",,false
+"Fiji","FJ","The Republic of Fiji (principal islands Vanua Levu and Viti Levu, and includes Rotuma Island)",,300000000163395,"679","FJD",,false
+"Finland","FI","Republic of Finland (includes Aland Islands)","fi-FI",300000000163394,"358","EUR","FINLAND",false
+"France","FR","French Republic (comprises Metropolitan France, French Guiana, Guadeloupe, Martinique, La Reunion, Mayotte, Saint Barthelemy, Saint Martin, Saint Pierre and Miquelon, French Polynesia, French Southern Territories, New Caledonia, Wallis and Futuna. Includes Clipperton Island)","fr-FR",300000000163399,"33","EUR","FRANCE",false
+"French Guiana","GF","French Guiana",,300000000163406,"594","EUR",,false
+"French Polynesia","PF","French Polynesia (comprises Austral Islands, Gambier Islands, Marquesas Islands, Society Archipelago (principal island Tahiti), Tuamotu Islands)",,300000000163536,"689","XPF",,false
+"French Southern Territories","TF","French Southern Territories (comprises Amsterdam Island, Crozet Archipelago, Kerguelen Islands, Saint-Paul Island and French scattered Indian Ocean Islands formed by Bassas da India, Europa Island, Glorioso Islands, Juan de Nova Island and Tromelin Island)",,300000000163610,"262","EUR",,false
+"Gabon","GA","Gabonese Republic",,300000000163401,"241","XAF",,false
+"Gambia","GM","Republic of the Gambia",,300000000163411,"220","GMD",,false
+"Georgia","GE","Georgia",,300000000163405,"995","GEL",,false
+"Germany","DE","Federal Republic of Germany","de-DE",300000000163371,"49","EUR","GERMANY",false
+"Ghana","GH","Republic of Ghana",,300000000163408,"233","GHS",,false
+"Gibraltar","GI","Gibraltar",,300000000163409,"350","GIP",,false
+"Greece","GR","Hellenic Republic (includes Mount Athos autonomous area)","el-GR",300000000163415,"30","EUR","GREECE",false
+"Greenland","GL","Greenland",,300000000163410,"299","DKK",,false
+"Grenada","GD","Grenada (includes Southern Grenadine Islands (principal island Carriacou))",,300000000163403,"1","XCD",,false
+"Guadeloupe","GP","Guadeloupe (includes la Desirade, Marie-Galante, les Saintes)",,300000000163413,"590","EUR",,false
+"Guam","GU","Guam",,300000000163418,"1","USD",,false
+"Guatemala","GT","Republic of Guatemala","es-GT",300000000163417,"502","GTQ","GUATEMALA",false
+"Guernsey","GG","Guernsey",,300000000163407,"44","GBP",,false
+"Guinea","GN","Republic of Guinea",,300000000163412,"224","GNF",,false
+"Guinea-Bissau","GW","Republic of Guinea-Bissau",,300000000163420,"245","GWP",,false
+"Guyana","GY","Republic of Guyana",,300000000163421,"592","GYD",,false
+"Haiti","HT","Republic of Haiti",,300000000163428,"509","HTG",,false
+"Heard Island and McDonald Islands","HM","Heard Island and McDonald Islands",,,,"AUD",,false
+"Holy See (Vatican City State)","VA","Holy See (Vatican City State) previous entry Vatican City State (Holy See)",,300000000163918,"39","EUR",,false
+"Honduras","HN","Republic of Honduras (includes Swan Islands)",,300000000163424,"504","HNL",,false
+"Hong Kong","HK","Hong Kong Special Administrative Region of China","zh-HK",300000000163422,"852","HKD","HONG KONG",false
+"Hungary","HU","Republic of Hungary","hu-HU",300000000163429,"36","HUF","HUNGARY",false
+"Iceland","IS","Republic of Iceland","is-IS",300000000163438,"354","ISK","ICELAND",false
+"India","IN","Republic of India (includes Amindivi Islands, Andaman Islands, Laccadive Islands, Minicoy Island, and Nicobar Islands)","hi-IN",300000000163434,"91","INR","INDIA",false
+"Indonesia","ID","Republic of Indonesia","in-ID",300000000163430,"62","IDR","INDONESIA",false
+"Iran, Islamic Republic of","IR","Islamic Republic of Iran",,300000000163437,"98","IRR",,false
+"Iraq","IQ","Republic of Iraq","ar-IQ",300000000163436,"964","IQD","IRAQ",false
+"Ireland","IE","Ireland","en-IE",300000000163431,"353","EUR","IRELAND",false
+"Isle of Man","IM","Isle of Man",,300000000163433,"44","GBP",,false
+"Israel","IL","State of Israel","iw-IL",300000000163432,"972","ILS","ISRAEL",false
+"Italy","IT","Italian Republic","it-IT",300000000163439,"39","EUR","ITALY",false
+"Jamaica","JM","Jamaica",,300000000163441,"1","JMD",,false
+"Japan","JP","Japan","ja-JP",300000000163444,"81","JPY","JAPAN",false
+"Jersey","JE","Jersey",,300000000163440,"44","GBP",,false
+"Jordan","JO","Hashemite Kingdom of Jordan","ar-JO",300000000163443,"962","JOD","JORDAN",false
+"Kazakhstan","KZ","Republic of Kazakhstan","kk-KZ",300000000163463,"7","KZT","KAZAKHSTAN",false
+"Kenya","KE","Republic of Kenya",,300000000163451,"254","KES",,false
+"Kiribati","KI","Republic of Kiribati (includes Gilbert Islands, Part of Line Islands, Phoenix Islands)",,300000000163454,"686","AUD",,false
+"Kosovo","XK","Republic of Kosovo","sr-RS",,,"EUR","SERBIA",false
+"Kuwait","KW","State of Kuwait","ar-KW",300000000163460,"965","KWD","KUWAIT",false
+"Kyrgyzstan","KG","Kyrgyz Republic",,300000000163452,"996","KGS",,false
+"Lao People's Democratic Republic","LA","Lao People's Democratic Republic",,300000000163464,"856","LAK",,false
+"Latvia","LV","Republic of Latvia","lv-LV",300000000163474,"371","LVL","LATVIA",false
+"Lebanon","LB","Lebanese Republic","ar-LB",300000000163465,"961","LBP","LEBANON",false
+"Lesotho","LS","Kingdom of Lesotho",,300000000163471,"266","ZAR",,false
+"Liberia","LR","Republic of Liberia",,300000000163470,"231","LRD",,false
+"Libya","LY",,"ar-LY",300000000163475,"218","LYD","LIBYA",false
+"Liechtenstein","LI","Principality of Liechtenstein",,300000000163468,"423","CHF",,false
+"Lithuania","LT","Republic of Lithuania","lt-LT",300000000163472,"370","EUR","LITHUANIA",false
+"Luxembourg","LU","Grand Duchy of Luxembourg","de-LU",300000000163473,"352","EUR","LUXEMBOURG",false
+"Macao","MO","Macao Special Administrative Region of China",,300000000163496,"853","MOP",,false
+"Madagascar","MG","Republic of Madagascar",,300000000163490,"261","MGA",,false
+"Malawi","MW","Republic of Malawi",,300000000163506,"265","MWK",,false
+"Malaysia","MY","Malaysia (includes Peninsular Malaysia, Sabah, and Sarawak)","ms-MY",300000000163511,"60","MYR","MALAYSIA",false
+"Maldives","MV","Republic of Maldives",,300000000163505,"960","MVR",,false
+"Mali","ML","Republic of Mali",,300000000163493,"223","XOF",,false
+"Malta","MT","Republic of Malta",,300000000163503,"356","EUR",,false
+"Marshall Islands","MH","Republic of the Marshall Islands (principal atolls are Jaluit, Kwajalein, and Majuro)",,300000000163491,"692","USD",,false
+"Martinique","MQ","Martinique",,300000000163499,"596","EUR",,false
+"Mauritania","MR","Islamic Republic of Mauritania","fr-MR",300000000163500,"222","MRO","MAURITANIA",false
+"Mauritius","MU","Republic of Mauritius (includes Agalega Islands, Cargados Carajos Shoals, and Rodrigues Island)",,300000000163504,"230","MUR",,false
+"Mayotte","YT","Mayotte",,300000000163931,"262","EUR",,false
+"Mexico","MX","United Mexican States","es-MX",300000000163507,"52","MXN","MEXICO",false
+"Micronesia, Federated States of","FM","Micronesia, Federated States of (includes Caroline Islands (except Palau, see separate entry), principal islands Chuuk, Kosrae, Pohnpei, and Yap)",,300000000163397,"691","USD",,false
+"Monaco","MC","Principality of Monaco",,300000000163477,"377","EUR",,false
+"Mongolia","MN","Mongolia",,300000000163495,"976","MNT",,false
+"Montenegro","ME","Montenegro",,300000000163479,"382","EUR",,false
+"Montserrat","MS","Montserrat",,300000000163501,"1","XCD",,false
+"Morocco","MA","Kingdom of Morocco","ar-MA",300000000163476,"212","MAD","MOROCCO",false
+"Mozambique","MZ","Republic of Mozambique",,300000000163512,"258","MZN",,false
+"Myanmar","MM","Union of Myanmar",,300000000163494,"95","MMK",,false
+"Namibia","NA","Republic of Namibia",,300000000163513,"264","NAD",,false
+"Nauru","NR","Republic of Nauru",,300000000163526,"674","AUD",,false
+"Nepal","NP","Kingdom of Nepal",,300000000163525,"977","NPR",,false
+"Netherlands","NL","Kingdom of the Netherlands","nl-NL",300000000163519,"31","EUR","THE NETHERLANDS",false
+"Netherlands Antilles","AN","Netherlands Antilles (includes Bonaire, Curacao, Saint Eustatius and Saba, and Sint Maarten (Dutch Part))",,300000000163275,"599","ANG",,false
+"New Caledonia","NC","New Caledonia (includes Loyalty Islands)",,300000000163514,"687","XPF",,false
+"New Zealand","NZ","New Zealand (includes Antipodes Islands, Auckland Islands, Campbell Island, Chatham Islands, and Kermadec Islands)","en-NZ",300000000163528,"64","NZD","NEW ZEALAND",false
+"Nicaragua","NI","Republic of Nicaragua","es-NI",300000000163518,"505","NIO","NICARAGUA",false
+"Niger","NE","Republic of the Niger",,300000000163515,"227","XOF",,false
+"Nigeria","NG","Federal Republic of Nigeria",,300000000163517,"234","NGN",,false
+"Niue","NU","Republic of Niue",,300000000163527,"683","NZD",,false
+"Norfolk Island","NF","Norfolk Island",,300000000163516,"672","AUD",,false
+"North Macedonia","MK","Republic of North Macedonia","mk-MK",300000000163492,"389","MKD","FYR MACEDONIA",false
+"Northern Mariana Islands","MP","Commonwealth of the Northern Mariana Islands except Guam (principle Island is Saipan)",,300000000163497,"1","USD",,false
+"Norway","NO","Kingdom of Norway","no-NO",300000000163522,"47","NOK","NORWAY",false
+"Oman","OM","Sultanate of Oman (includes part of the Musandam Peninsula)","ar-OM",300000000163533,"968","OMR","OMAN",false
+"Pakistan","PK","Islamic Republic of Pakistan",,300000000163539,"92","PKR",,false
+"Palau","PW","Republic of Palau (includes the west part of the Caroline Islands (principal island is Babelthuap))",,300000000163548,"680","USD",,false
+"Palestine, State of","PS","State of Palestine",,300000000163546,"970",,,false
+"Panama","PA","Republic of Panama","es-PA",300000000163534,"507","PAB","PANAMA",false
+"Papua New Guinea","PG","Papua New Guinea (includes Bismarck Archipelago and Northern Solomon Islands (principal island is Bougainville))",,300000000163537,"675","PGK",,false
+"Paraguay","PY","Republic of Paraguay",,300000000163549,"595","PYG",,false
+"Peru","PE","Republic of Peru","es-PE",300000000163535,"51","PEN","PERU",false
+"Philippines","PH","Republic of the Philippines","en-PH",300000000163538,"63","PHP","PHILIPPINES",false
+"Pitcairn","PN","Pitcairn (includes Ducie Island, Henderson Island, and Oeno Island)",,300000000163542,"64","NZD",,false
+"Poland","PL","Republic of Poland","pl-PL",300000000163540,"48","PLN","POLAND",false
+"Portugal","PT","Portuguese Republic","pt-PT",300000000163547,"351","EUR","PORTUGAL",false
+"Puerto Rico","PR","Puerto Rico","es-PR",300000000163543,"1","USD","PUERTO RICO",false
+"Qatar","QA","State of Qatar","ar-QA",300000000163550,"974","QAR","QATAR",false
+"Republic of Korea","KR","Korea, Republic of (often referred to as South Korea)","ko-KR",300000000163459,"82","KRW","KOREA",false
+"Republic of Moldova","MD","Moldova",,300000000163478,"373","MDL",,false
+"Reunion","RE","Reunion",,300000000163551,"262","EUR",,false
+"Romania","RO","Romania","ro-RO",300000000163552,"40","RON","ROMANIA",false
+"Russian Federation","RU","Russian Federation (includes the Kaliningrad Region)","ru-RU",300000000163585,"7","RUB","RUSSIA",false
+"Rwanda","RW","Rwandese Republic",,300000000163586,"250","RWF",,false
+"Saint Barthelemy","BL","Saint Barthelemy",,,,"EUR",,false
+"Saint Helena, Ascension and Tristan da Cunha","SH","Saint Helena, Ascension and Tristan da Cunha Archipelago (includes Gough Island, Inaccessible Island, Nightingale Island, and Stoltenhoff Island)",,300000000163593,"290","SHP",,false
+"Saint Kitts and Nevis","KN","Saint Kitts and Nevis",,300000000163456,"1","XCD",,false
+"Saint Lucia","LC","Saint Lucia",,300000000163466,"1","XCD",,false
+"Saint Martin (French part)","MF","Saint Martin (French part) (Saint Martin is divided into a northern French part and a southern Dutch part)",,,,"EUR",,false
+"Saint Pierre and Miquelon","PM","Saint Pierre and Miquelon",,300000000163541,"508","EUR",,false
+"Saint Vincent and the Grenadines","VC","Saint Vincent and the Grenadines (includes Northern Grenadine Islands (principal island Bequia) and Saint Vincent Island)",,300000000163919,"1","XCD",,false
+"Samoa","WS","Independent State of Samoa (principal islands are Savai'i and Upolu)",,300000000163929,"685","WST",,false
+"San Marino","SM","Republic of San Marino",,300000000163598,"378","EUR",,false
+"Sao Tome and Principe","ST","Democratic Republic of Sao Tome and Principe",,300000000163602,"239","STD",,false
+"Saudi Arabia","SA","Kingdom of Saudi Arabia","ar-SA",300000000163587,"966","SAR","SAUDI ARABIA",false
+"Senegal","SN","Republic of Senegal",,300000000163599,"221","XOF",,false
+"Serbia","RS","Republic of Serbia",,300000000163553,"381","RSD",,false
+"Serbia and Montenegro","CS","Serbia and Montenegro",,,,,,false
+"Seychelles","SC","Republic of Seychelles (includes Cosmoledo Islands, Farquhar Islands, Mahe (principal island), Aldabra Islands, and Amirante Islands)",,300000000163589,"248","SCR",,false
+"Sierra Leone","SL","Republic of Sierra Leone",,300000000163597,"232","SLL",,false
+"Singapore","SG","Republic of Singapore","zh-SG",300000000163592,"65","SGD","SINGAPORE",false
+"Sint Maarten","SX","Sint Maarten (Dutch Part)","nl-NL",,,"ANG",,false
+"Slovakia","SK","Slovak Republic","sk-SK",300000000163596,"421","EUR","SLOVAKIA",false
+"Slovenia","SI","Republic of Slovenia","sl-SI",300000000163594,"386","EUR","SLOVENIA",false
+"Solomon Islands","SB","Solomon Islands (includes Santa Cruz Islands and Southern Solomon Islands (principal island is Guadalcanal))",,300000000163588,"677","SBD",,false
+"Somalia","SO","Somali Republic","ar-SO",300000000163600,"252","SOS","SOMALIA",false
+"South Africa","ZA","Republic of South Africa (includes Marion Island and Prince Edward Island)","en-ZA",300000000163932,"27","ZAR","SOUTH AFRICA",false
+"South Georgia and the South Sandwich Islands","GS","South Georgia and the South Sandwich Islands",,300000000163416,"500","GBP",,false
+"South Sudan","SS","Republic of South Sudan",,,,"SSP",,false
+"Spain","ES","Kingdom of Spain","es-ES",300000000163391,"34","EUR","SPAIN",false
+"Sri Lanka","LK","Democratic Socialist Republic of Sri Lanka",,300000000163469,"94","LKR",,false
+"Sudan","SD","Republic of the Sudan","ar-SD",300000000163590,"249","SDG","SUDAN",false
+"Suriname","SR","Republic of Suriname",,300000000163601,"597","SRD",,false
+"Svalbard and Jan Mayen","SJ","Svalbard and Jan Mayen (includes Bear Island)",,300000000163595,"47","NOK",,false
+"Sweden","SE","Kingdom of Sweden","sv-SE",300000000163591,"46","SEK","SWEDEN",false
+"Switzerland","CH","Swiss Confederation","de-CH",300000000163354,"41","CHF","SWITZERLAND",false
+"Syria","SY","Syrian Arab Republic","ar-SY",300000000163605,"963","SYP","SYRIA",false
+"Taiwan","TW","Taiwan","zh-TW",300000000163623,"886","TWD","TAIWAN",false
+"Tajikistan","TJ","Republic of Tajikistan",,300000000163613,"992","TJS",,false
+"Tanzania","TZ","United Republic of Tanzania",,300000000163624,"255","TZS",,false
+"Thailand","TH","Kingdom of Thailand","th-TH",300000000163612,"66","THB","THAILAND",false
+"Timor-Leste","TL","Timor-Leste (Includes the exclave of Oecussi)",,300000000163615,"670","USD",,false
+"Togo","TG","Togolese Republic",,300000000163611,"228","XOF",,false
+"Tokelau","TK","Tokelau",,300000000163614,"690","NZD",,false
+"Tonga","TO","Kingdom of Tonga (principal island is Tongatapu)",,300000000163618,"676","TOP",,false
+"Trinidad and Tobago","TT","Republic of Trinidad and Tobago",,300000000163620,"1","TTD",,false
+"Tunisia","TN","Republic of Tunisia","ar-TN",300000000163617,"216","TND","TUNISIA",false
+"Turkey","TR","Republic of Turkey","tr-TR",300000000163619,"90","TRY","TURKEY",false
+"Turkmenistan","TM","Turkmenistan",,300000000163616,"993","TMM",,false
+"Turks and Caicos Islands","TC","Turks and Caicos Islands",,300000000163607,"1","USD",,false
+"Tuvalu","TV","Tuvalu (principal atoll is Funafuti)",,300000000163622,"688","AUD",,false
+"Uganda","UG","Republic of Uganda",,300000000163626,"256","UGX",,false
+"Ukraine","UA","Ukraine","uk-UA",300000000163625,"380","UAH","UKRAINE",false
+"United Arab Emirates","AE","United Arab Emirates","ar-AE",300000000163265,"971","AED","UNITED ARAB EMIRATES",false
+"United Kingdom","GB","United Kingdom of Great Britain and Northern Ireland","en-GB",300000000163402,"44","GBP","UNITED KINGDOM",false
+"United Nations","UN","United Nations",,,,"USD",,false
+"United States","US","United States of America","en-US",300000000163628,"1","USD","AMERICA",false
+"United States Minor Outlying Islands","UM","United States Minor Outlying Islands (includes Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Navassa Island, Palmyra Atoll, and Wake Island)",,300000000163627,"699","USD",,false
+"Uruguay","UY","Eastern Republic of Uruguay",,300000000163916,"598","UYU",,false
+"Uzbekistan","UZ","Republic of Uzbekistan","uz-UZ",300000000163917,"998","UZS","UZBEKISTAN",false
+"Vanuatu","VU","Republic of Vanuatu (principal islands are Efate and Santo)",,300000000163927,"678","VUV",,false
+"Venezuela","VE","Bolivarian Republic of Venezuela (includes Bird Island)","es-VE",300000000163921,"58","VES","VENEZUELA",false
+"Viet Nam","VN","Socialist Republic of Viet Nam","vi-VN",300000000163926,"84","VND","VIETNAM",false
+"Virgin Islands, British","VG","British Virgin Islands (includes Anegada, Jost Van Dyke, Tortola, and Virgin Gorda)",,300000000163922,"1","USD",,false
+"Virgin Islands, U.S.","VI","Virgin Islands of the United States (includes Saint Croix, Saint John, and Saint Thomas)",,300000000163924,"1","USD",,false
+"Wallis and Futuna","WF","Wallis and Futuna (includes Hoorn Islands (principal island is Futuna) and Wallis Islands (principal island is Uvea))",,300000000163928,"681","XPF",,false
+"Western Sahara","EH","Western Sahara",,300000000163389,"212","MAD",,false
+"Yemen","YE","Republic of Yemen (includes Socotra Island)","ar-YE",300000000163930,"967","YER","YEMEN",false
+"Yugoslavia","YU","Yugoslavia",,,,,,false
+"Zambia","ZM","Republic of Zambia",,300000000163933,"260","ZMW",,false
+"Zimbabwe","ZW","Republic of Zimbabwe",,300000000163934,"263","ZWD",,false
