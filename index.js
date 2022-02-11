@@ -98,18 +98,25 @@ const filterAPIs = (includeTheseApis, item) => {
         // process all csv objects
         csvObjects.filter(
             item => [
-                'legalEmployersLov'
                 /*
+                'legalEmployersLov',
                 'gradesLov',
                 'organizations',
                 'locationsLov',
                 'hcmCountriesLov',
                 'personTypesLOV',
                 'actionsLOV',
-                'actionReasonsLOV'
-                */
-
-
+                'actionReasonsLOV',
+                'hcmBusinessUnitsLOV',
+                'currenciesLOV',
+                'departmentsLov',
+                'territoriesLOV',
+                'salaryBasisLov',
+                'rolesLOV',
+                'benefitPlansLOV',
+                'lifeEventsLOV',
+               'commonLookupsLOV'
+               */
             ].includes(item.name)
         ).map( 
             item => fetchItem(item) 

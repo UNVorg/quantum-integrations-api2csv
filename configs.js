@@ -194,6 +194,77 @@ const csvConfigs = [
             "EnabledFlag",
             "ObsoleteFlag"
         ]
+    },
+    {
+        "name": 'salaryBasisLov',
+        "api": '/hcmRestApi/resources/11.13.18.05/salaryBasisLov',
+        "fields": [
+            "SalaryBasisName",
+            "SalaryBasisId",
+            "FrequencyCode",
+            "FrequencyName",
+            "Code",
+            "Status",
+            "SalaryBasisType",
+            "ComponentUsage",
+            "AnnualizationFactor",
+            "SalaryAmountScale",
+            "GradeRateId",
+            "InputCurrencyCode",
+            "ElementTypeId",
+            "LegislativeDataGroupId",
+            "UseAtRelationshipLevel",
+            "UseAtTermsLevel",
+            "UseAtAssignmentLevel"
+        ]
+    },
+    {
+        "name": 'rolesLOV',
+        "api": '/hcmRestApi/resources/11.13.18.05/rolesLOV',
+        "fields": [
+            "RoleId",
+            "RoleName",
+            "RoleCode",
+            "Description",
+            "ActiveFlag",
+            "AbstractRole",
+            "DataRole",
+            "JobRole",
+            "DutyRole",
+            "DelegationAllowed",
+            "ExternalRole",
+            "ObjectVersionNumber"
+        ]
+    },
+    {
+        "name": 'benefitPlansLOV',
+        "api": '/hcmRestApi/resources/11.13.18.05/benefitPlansLOV',
+        "fields": [
+            "PlanId",
+            "Name",
+            "EffectiveStartDate",
+            "EffectiveEndDate",
+            "ShortCode",
+            "ShortName",
+            "WebAddress",
+            "ObjectVersionNumber",
+            "CreatedBy",
+            "CreationDate",
+            "LastUpdateDate",
+            "LastUpdatedBy"
+        ]
+    },
+    {
+        "name": "lifeEventsLOV",
+        "api": "/hcmRestApi/resources/11.13.18.05/lifeEventsLOV",
+        "fields": [
+            "LifeEventReasonId",
+            "GlobalFlag",
+            "SelectableSelfServiceCode",
+            "EventTypeCode",
+            "LifeEventName",
+            "LegalEntityId"
+        ]
     }
 ];
 
