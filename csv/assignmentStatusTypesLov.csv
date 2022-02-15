@@ -1,0 +1,7 @@
+"AssignmentStatusTypeId","UserStatus","AssignmentStatusCode","HRStatus","PayStatus","StartDate","EndDate"
+2,"Active - No Payroll","ACTIVE_NO_PROCESS","ACTIVE","D","1900-01-01",
+1,"Active - Payroll Eligible","ACTIVE_PROCESS","ACTIVE","P","1900-01-01",
+4,"Inactive - No Payroll","INACTIVE_NO_PROCESS","INACTIVE","D","1900-01-01",
+3,"Inactive - Payroll Eligible","INACTIVE_PROCESS","INACTIVE","P","1900-01-01",
+6,"Suspended - No Payroll","SUSPEND_NO_PROCESS","SUSPENDED","D","1900-01-01",
+5,"Suspended - Payroll Eligible","SUSPEND_PROCESS","SUSPENDED","P","1900-01-01",
