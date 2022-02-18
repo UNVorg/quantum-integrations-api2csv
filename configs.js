@@ -358,7 +358,80 @@ const csvConfigs = [
             "SetCode",
             "SetName"
         ]
+    },
+    {
+        "name": "valueSets",
+        "api": "/fscmRestApi/resources/11.13.18.05/valueSets",
+        "fields": [
+            "ValueSetId",
+            "ModuleId",
+            "ValueSetCode",
+            "Description",
+            "ValidationType",
+            "ValueDataType",
+            "ValueSubtype",
+            "ProtectedFlag",
+            "MaximumLength",
+            "Precision",
+            "Scale",
+            "UppercaseOnlyFlag",
+            "ZeroFillFlag",
+            "SecurityEnabledFlag",
+            "DataSecurityObjectName",
+            "MinimumValue",
+            "MinimumValueNumber",
+            "MinimumValueDate",
+            "MinimumValueTimestamp",
+            "MaximumValue",
+            "MaximumValueNumber",
+            "MaximumValueDate",
+            "MaximumValueTimestamp",
+            "IndependentValueSetId",
+            "IndependentValueSetCode",
+            "CreationDate",
+            "CreatedBy",
+            "LastUpdateDate",
+            "LastUpdatedBy"
+        ]
+    },
+    {
+        "name": "atlasCompany",
+        "api": "/fscmRestApi/resources/11.13.18.05/valueSets/UN_CHR_ATLAS_COMPANY/child/values",
+        "fields": [
+            "ValueId",
+            "IndependentValue",
+            "IndependentValueNumber",
+            "IndependentValueDate",
+            "IndependentValueTimestamp",
+            "Value",
+            "ValueNumber",
+            "ValueDate",
+            "ValueTimestamp",
+            "TranslatedValue",
+            "Description",
+            "EnabledFlag",
+            "StartDateActive",
+            "EndDateActive",
+            "SortOrder",
+            "SummaryFlag",
+            "DetailPostingAllowed",
+            "DetailBudgetingAllowed",
+            "AccountType",
+            "ControlAccount",
+            "ReconciliationFlag",
+            "FinancialCategory",
+            "ExternalDataSource",
+            "CreationDate",
+            "CreatedBy",
+            "LastUpdateDate",
+            "LastUpdatedBy"
+        ]
     }
+    
+
+    
+
+
 ];
 
 
