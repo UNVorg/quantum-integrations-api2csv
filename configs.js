@@ -426,6 +426,17 @@ const csvConfigs = [
             "LastUpdateDate",
             "LastUpdatedBy"
         ]
+    },
+    {
+        "name": "legislativeDataGroupsLOV",
+        "api": "/hcmRestApi/resources/11.13.18.05/legislativeDataGroupsLOV",
+        "fields": [
+            "LegislativeDataGroupId",
+            "Name",
+            "LegislationCode",
+            "DefaultCurrencyCode",
+            "CostAllocationIdFlexNumber"
+        ]
     }
     
 

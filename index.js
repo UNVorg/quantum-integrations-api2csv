@@ -119,9 +119,10 @@ const filterAPIs = (includeTheseApis, item) => {
                'assignmentStatusTypesLov',
                'gradeLaddersLov',
                'locationsV2',
-               'valueSets'
-               */
+               'valueSets',
                'atlasCompany'
+               */
+                'legislativeDataGroupsLOV'
             ].includes(item.name)
         ).map( 
             item => fetchItem(item) 
