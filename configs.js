@@ -4,6 +4,152 @@ function authConfigs() {
     return configs;
 }
 
+const csvEntityConfigs = [
+    {
+        "name": "allVolunteerPersons",
+        "api": "/hcmRestApi/resources/11.13.18.05/workers?q=workRelationships.assignments.UserPersonTypeId=300000002590071",
+        "fields": [
+            "PersonId",
+            "PersonNumber",
+            "DateOfBirth",
+            "DateOfDeath",
+            "CountryOfBirth",
+            "CreatedBy",
+            "CreationDate",
+            "LastUpdatedBy",
+            "LastUpdateDate"
+        ]
+    },
+    {
+        "name": "addresses",
+        "api": "/",
+        "fields": [
+            "PersonId",
+            "PersonNumber",
+            "AddressId",
+            "EffectiveStartDate",
+            "EffectiveEndDate",
+            "AddressLine1",
+            "AddressLine2",
+            "TownOrCity",
+            "Country" ,
+            "PostalCode",
+            "CreatedBy",
+            "CreationDate",
+            "LastUpdatedBy",
+            "LastUpdateDate",
+            "PersonAddrUsageId",
+            "AddressType",
+            "PrimaryFlag"
+        ]
+    },
+    {
+        "name": "emails",
+        "api": "/",
+        "fields": [
+            "PersonId",
+            "PersonNumber",
+            "EmailAddressId",
+            "EmailType",
+            "EmailAddress",
+            "FromDate",
+            "ToDate",
+            "CreatedBy",
+            "CreationDate",
+            "LastUpdatedBy",
+            "LastUpdateDate",
+            "PrimaryFlag"            
+        ]
+    }, 
+    {
+        "name": "legislativeInfo",
+        "api": "/",
+        "fields": [
+            "PersonId",
+            "PersonNumber",
+            "PersonLegislativeId",
+            "EffectiveStartDate",
+            "EffectiveEndDate",
+            "LegislationCode",
+            "Gender",
+            "MaritalStatus",
+            "MaritalStatusChangeDate",
+            "HighestEducationLevel",
+            "CreatedBy",
+            "CreationDate",
+            "LastUpdatedBy",
+            "LastUpdateDate"
+        ]
+    },
+    {
+        "name": "names",
+        "api": "/",
+        "fields": [
+            "PersonId",
+            "PersonNumber",
+            "PersonNameId",
+            "EffectiveStartDate",
+            "EffectiveEndDate",
+            "LegislationCode",
+            "LastName",
+            "FirstName",
+            "Title",
+            "CreatedBy",
+            "CreationDate",
+            "LastUpdatedBy",
+            "LastUpdateDate"            
+        ]
+    },
+    {
+        "name": "workRelationships",
+        "api": "/",
+        "fields": [
+            "PersonId",
+            "PersonNumber",
+            "PeriodOfServiceId",
+            "LegislationCode",
+            "LegalEntityId",
+            "LegalEmployerName",
+            "WorkerType",
+            "PrimaryFlag",
+            "StartDate",
+            "WorkerNumber",
+            "TerminationDate",
+            "NotificationDate",
+            "LastWorkingDate",
+            "RevokeUserAccess",
+            "RecommendedForRehire",
+            "RecommendationReason",
+            "RecommendationAuthorizedByPersonId",
+            "CreatedBy",
+            "CreationDate",
+            "LastUpdatedBy",
+            "LastUpdateDate"            
+        ]
+    },
+    {
+        "name": "phones",
+        "api": "/",
+        "fields": [
+            "PersonId",
+            "PersonNumber",
+            "PhoneId",
+            "PhoneType",
+            "LegislationCode",
+            "CountryCodeNumber",
+            "AreaCode",
+            "PhoneNumber",
+            "Extension",
+            "FromDate",
+            "ToDate",
+            "CreatedBy",
+            "CreationDate",
+            "LastUpdatedBy",
+            "LastUpdateDate"
+        ]
+    }
+]
+
 const csvConfigs = [
     {
         "name": 'gradesLov',
@@ -438,10 +584,170 @@ const csvConfigs = [
             "CostAllocationIdFlexNumber"
         ]
     }
-    
+    ,
+    {
+        "name": "gradeStepsLOV",
+        "api": "/hcmRestApi/resources/11.13.18.05/gradeStepsLOV",
+        "fields": [
+            "GradeStepId",
+            "Name",
+            "Sequence",
+            "GradeId",
+            "EffectiveStartDate",
+            "EffectiveEndDate"
+        ]
+    }
+    ,
+    {
+        "name": "eligibilityProfilesLOV",
+        "api": "/hcmRestApi/resources/11.13.18.05/eligibilityProfilesLOV",
+        "fields": [
+            "AsmtToUseCd",
+            "BnftCagrPrtnCd",
+            "EligyPrflId",
+            "Description",
+            "ProfileType",
+            "StatCd",
+            "Name"
+        ]
+    },
+    {
+        "name": "organizationTreeNodesLOV",
+        "api": "/hcmRestApi/resources/11.13.18.05/organizationTreeNodesLOV",
+        "fields": [
+            "OrganizationId",
+            "OrganizationName",
+            "EffectiveStartDate",
+            "EffectiveEndDate"
+        ]
+    }
+    ,
+    {
+        "name": "organizationTreeNodesLOV",
+        "api": "/hcmRestApi/resources/11.13.18.05/organizationTreeNodesLOV",
+        "fields": [
+            "OrganizationId",
+            "OrganizationName",
+            "EffectiveStartDate",
+            "EffectiveEndDate"
+        ]
+    }
+    ,
+    {
+        "name": "departmentTreeNodesLOV",
+        "api": "/hcmRestApi/resources/11.13.18.05/departmentTreeNodesLOV",
+        "fields": [
+            "OrganizationId",
+            "DepartmentName",
+            "EffectiveStartDate",
+            "EffectiveEndDate"
+        ]
+    },
+    {
+        "name": "payrollElementDefinitionsLOV",
+        "api":"/hcmRestApi/resources/11.13.18.05/payrollElementDefinitionsLOV?orderBy=ElementTypeId",
+        "fields": [
+            "ElementTypeId",
+            "EffectiveStartDate",
+            "EffectiveEndDate",
+            "ElementName",
+            "ReportingName",
+            "UseAtRelationshipLevel",
+            "UseAtAssignmentLevel",
+            "ProcessingType",
+            "LegislativeDataGroupId",
+            "LegislationCode",
+            "InputCurrencyCode",
+            "OutputCurrencyCode",
+            "PrimaryClassificationName",
+            "LegislativeDataGroupName",
+            "PrimaryClassificationId",
+            "SecondaryClassificationId",
+            "SecondaryClassificationName",
+            "PersonId"
+        ]
 
-    
-
+    },
+    {
+        "name": "payrollDefinitionsLOV",
+        "api": "/hcmRestApi/resources/11.13.18.05/payrollDefinitionsLOV",
+        "fields": [
+            "PayrollId",
+            "EffectiveStartDate",
+            "EffectiveEndDate",
+            "PayrollName",
+            "ReportingName",
+            "LegislativeDataGroupId",
+            "LegislativeDataGroupName",
+            "ConsolidationSetId",
+            "ConsolidationSetName",
+            "PeriodType"
+        ]
+    },
+    {
+        "name": "payrollTimeDefinitionsLOV",
+        "api": "/hcmRestApi/resources/11.13.18.05/payrollTimeDefinitionsLOV?orderBy=TimeDefinitionId",
+        "fields": [
+            "TimeDefinitionId",
+            "DefinitionType",
+            "DefinitionName",
+            "LegislativeDataGroupId",
+            "Name"
+        ]
+    },
+    {
+        "name": "payrollTimePeriodsLOV",
+        "api": "/hcmRestApi/resources/11.13.18.05/payrollTimePeriodsLOV?orderBy=TimePeriodId",
+        "fields": [
+            "TimePeriodId",
+            "StartDate",
+            "EndDate",
+            "PeriodCategory",
+            "PeriodName",
+            "PeriodNumber",
+            "PeriodType",
+            "RegularProcessDate",
+            "RegularEarnDate",
+            "DefaultPaydate",
+            "PayslipViewDate",
+            "PayrollName",
+            "PayrollId",
+            "EffectiveStartDate",
+            "EffectiveEndDate",
+            "LegislativeDataGroupId",
+            "LegislativeDataGroupName"
+        ]
+    },
+    {
+        "name": "payrollInputValuesLOV",
+        "api": "/hcmRestApi/resources/11.13.18.05/payrollInputValuesLOV?orderBy=InputValueId",
+        "fields": [
+            "InputValueId",
+            "EffectiveStartDate",
+            "EffectiveEndDate",
+            "InputValueName",
+            "DisplaySequence",
+            "UOM",
+            "ReservedInputValue",
+            "ElementName",
+            "ElementTypeId",
+            "ElementEffectiveStartDate",
+            "ElementEffectiveEndDate",
+            "LegislativeDataGroupName",
+            "LegislationCode",
+            "LegislativeDataGroupId"
+        ]
+    },
+    {
+        "name": "payrollStatutoryUnitsLOV",
+        "api": "/hcmRestApi/resources/11.13.18.05/payrollStatutoryUnitsLOV",
+        "fields": [
+            "OrganizationId",
+            "EffectiveStartDate",
+            "EffectiveEndDate",
+            "PayrollStatutoryUnitName"
+        ]
+    }
 
 ];
 
@@ -449,3 +755,4 @@ const csvConfigs = [
 
 exports.authConfigs = authConfigs;
 exports.csvConfigs = csvConfigs;
+exports.csvEntityConfigs = csvEntityConfigs;
